@@ -1,3 +1,8 @@
+---
+description: "information on managing macros"
+---
+
+
 # Managing macros
 
 In this article you can learn how to create and update a Macro, as well as how to configure its parameters.
